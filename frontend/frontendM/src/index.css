@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url("./assets/Bgimage.jpg");
+  background-size: cover;
+  color: rgb(244, 244, 7);
+  font-size: 2rem;
+}
